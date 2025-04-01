@@ -38,9 +38,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yuliia-bl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="30" height="30"/>
 </p>
 
-git add README.md
-git commit -m "📜 Update GitHub profile"
-git push origin main
+
 
 
 
